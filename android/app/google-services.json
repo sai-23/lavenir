@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "685591013768",
+    "firebase_url": "https://lavenir-b749d.firebaseio.com",
+    "project_id": "lavenir-b749d",
+    "storage_bucket": "lavenir-b749d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685591013768:android:773749c7069dc28724f23d",
+        "android_client_info": {
+          "package_name": "com.main.lavenir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685591013768-u8fp7leb8c9ktk76e5lri024aua5jpe9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2vBYexZld8qoUdQMsVtGvdxc0n4iZ7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685591013768-u8fp7leb8c9ktk76e5lri024aua5jpe9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685591013768-o48b7o4h8t5ojhgis223bfm3q5knkg3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.main.lavenir"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
